@@ -8,7 +8,6 @@ import requests
 from urllib.parse import urlparse
 from itertools import cycle
 
-# ASCII pour le style
 def ascii_logo():
     print("""
     ████████╗███████╗██████╗ ███╗   ███╗
